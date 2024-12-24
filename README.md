@@ -1,6 +1,10 @@
 # VBA-challenge
 This is a repository for the second Module of the UofM Bootcamp.
 
+Code Sourcing:
+I wrote all of this code myself.
+
+
 The following repository contains:
 - This README.md
 - This .zip file
